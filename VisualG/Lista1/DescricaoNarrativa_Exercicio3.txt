@@ -1,0 +1,8 @@
+Exercício 3
+
+Descrição Narrativa: calcular e apresentar o valor do volume de uma lata de óleo, utilizando a equação: Volume = PI * raio2 * altura.
+
+1. Receber o valor do raio;
+2. Receber o valor da altura;
+3. Calcular a fórmula Volume (volume <- ( pi*(raio^2))*altura);
+4. Mostrar o valor do volume.
