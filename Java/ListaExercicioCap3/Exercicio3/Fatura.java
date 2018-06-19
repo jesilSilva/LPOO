@@ -1,5 +1,9 @@
 package Exercicio3;
 
+/**
+ *
+ * @author Jesiel Carlos
+ */
 public class Fatura {
 
     private String numero;
