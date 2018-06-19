@@ -1,5 +1,9 @@
 package Exercicio4;
 
+/**
+ *
+ * @author Jesiel Carlos
+ */
 public class Empregado {
 
     private String primeiroNome;
