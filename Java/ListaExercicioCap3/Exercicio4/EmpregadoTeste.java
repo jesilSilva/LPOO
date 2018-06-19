@@ -2,6 +2,10 @@ package Exercicio4;
 
 import java.util.Scanner;
 
+/**
+ *
+ * @author Jesiel Carlos
+ */
 public class EmpregadoTeste {
 
     public static void main(String[] args) {
